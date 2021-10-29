@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #464646;
+  height: 55px;
+}
+
+.app-logo {
+  width: 60px;
+  height: 60px;
+}
+
+li,
+li a {
+  all: unset;
+  color: #f0dba5;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+li a {
+  margin-right: 30px;
+}
